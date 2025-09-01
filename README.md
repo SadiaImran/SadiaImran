@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Sadia 👋</h1>
-<h3 align="center">Software Engineer (Backend) | Python Developer | DevOps Enthusiast</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-%23FF6F00.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 <p align="center">
   <samp>
