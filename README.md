@@ -1,4 +1,4 @@
-<!-- 👋 Intro -->
+<!-- 👋 Intro Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20Developer-%23FF6F00.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/badge/DevOps-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h1 align="center">Hi, I'm Sadia 👋</h1>
-<h3 align="center">Software Engineer (Backend) | Python Developer | DevOps Enthusiast</h3>
+<h1 align="center">🚀 Backend Engineer | Python Dev | DevOps Explorer</h1>
 
 <p align="center">
   <samp>
-    「 APIs • Databases • Cloud • DevOps 」
+    「 Crafting APIs • Scaling Databases • Automating with Cloud 」
   </samp>
 </p>
 
@@ -34,16 +33,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages, Frameworks & Tools
 
-### 🔹 Backend & DevOps (Primary)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mongodb,supabase,docker,kubernetes,aws,jenkins,github,git,linux" />
-</div>
-
-### 🔹 Frontend & Tools (Secondary)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,postgresql,mongodb,supabase,docker,kubernetes,aws,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,figma,git,github,vscode,linux,postman" />
 </div>
 
 ---
@@ -60,21 +54,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SadiaImran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
-  
-  <!-- Languages -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SadiaImran&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadiaImran&theme=github_dark" alt="profile summary"/>
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=SadiaImran&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadiaImran&theme=github_dark" alt="stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadiaImran&theme=github_dark" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadiaImran&theme=github_dark" alt="most commit language"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiaImran&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadiaImran&theme=github_dark&utcOffset=5" alt="productive time"/>
 </p>
 
 ---
