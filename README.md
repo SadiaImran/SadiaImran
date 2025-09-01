@@ -1,60 +1,72 @@
 <h1 align="center">Hi, I'm Sadia 👋</h1>
-<h3 align="center">Backend Engineer | DevOps Enthusiast | UI Crafter</h3>
+<h3 align="center">Software Engineer (Backend) | Python Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <samp>
-    「 Developer from <b>Pakistan 🇵🇰</b> | Python • FastAPI • React • QML • DevOps 」
+    「 APIs • Databases • Cloud • DevOps 」  
   </samp>
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+with+Jenkins+%26+GitHub+Actions" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
-- 💻 Junior Developer @ **Stackware Ltd.** (Hybrid – Islamabad)  
-- 🎓 BS Computer Science (CGPA 3.78) @ **COMSATS University Islamabad**  
-- 🚀 Building scalable backends with **FastAPI, Supabase, PostgreSQL, MongoDB**  
-- 🌱 Learning **Cloud & DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS  
-- 🎨 Passionate about **UI/UX** (Figma → QML/React/Flutter)  
-- ⚡ Fun fact: I enjoy bridging the gap between **frontend design** and **backend logic**  
+- 💻 Junior Software Engineer (Backend) @ **Stackware Ltd.**  
+- 🎓 CS Undergrad @ **COMSATS University Islamabad (CGPA 3.78)**  
+- 🐍 Specialized in **Python backend development (FastAPI, Flask)**  
+- 🗄️ Strong in **databases**: PostgreSQL, MongoDB, Supabase, Firebase  
+- ☁️ Exploring **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS  
+- ⚡ Also familiar with **Frontend (React, Tailwind)** & **UI/UX (Figma)** as supporting skills  
 
 ---
 
 ## 🛠️ Tech Stack
+### 🔹 Backend & DevOps (Primary)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,mongodb,postgresql,supabase,docker,kubernetes,aws,jenkins,react,tailwind,flutter,dart,qt,cpp,java,figma,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mongodb,supabase,docker,kubernetes,aws,jenkins,github,git,linux" />
+</div>
+
+### 🔹 Frontend & Tools (Secondary)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,figma,vscode,postman" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [**JobPilot**](https://github.com/SadiaImran) – Job application tracker with **FastAPI + Supabase + React** (LLM-based resume matching)  
-- 🔹 [**Drivio**](https://github.com/SadiaImran) – MERN-based car rental web app  
-- 🔹 [**Travel App**](https://github.com/SadiaImran/travel_app) – Flutter + Firebase trip planner  
-- 🔹 [**Predictive House Prices**](https://github.com/SadiaImran/Predict-house-pricing) – ML pipeline with Flask API  
-- 🔹 [**Celebrity Face Classifier**](https://github.com/SadiaImran) – Flask + OpenCV image recognition  
-- 🔹 [**Java & C++ Management Systems**](https://github.com/SadiaImran) – GUI + OOP projects (Movie Tickets, Hospital Mgmt, etc.)  
+- 🔹 **[JobPilot](https://github.com/SadiaImran)** → FastAPI + Supabase job tracker (LLM resume matching)  
+- 🔹 **[Predictive House Prices](https://github.com/SadiaImran/Predict-house-pricing)** → ML + Flask API predictions  
+- 🔹 **[Celebrity Face Classifier](https://github.com/SadiaImran)** → Flask + OpenCV backend  
+- 🔹 **[Drivio](https://github.com/SadiaImran)** → REST APIs with Node.js + Express  
+- 🔹 **[Hospital Management System](https://github.com/SadiaImran/Hospital-Management-System)** → Java OOP + backend logic  
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadiaImran&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaImran&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SadiaImran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SadiaImran&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=SadiaImran&theme=merko&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SadiaImran&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ---
 
 ## 🤝 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sadia-imran-3b627227b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sadiaimran837@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dribbble.com/Sadia_Imran" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="https://sadiaimran.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sadia-imran-3b627227b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sadiaimran837@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sadiaimran.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">⭐️ If you like my work, consider starring my repos!</p>
+<p align="center">⭐ If you like my work, consider starring my repos!</p>
