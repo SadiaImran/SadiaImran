@@ -1,12 +1,5 @@
-<!-- 👋 Intro Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Developer-%23FF6F00.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
-<h1 align="center">🚀 Backend Engineer | Python Dev | DevOps Explorer</h1>
+<h1 align="center">🚀 Software Engineer | Backend Developer | Python | DevOps </h1>
 
 <p align="center">
   <samp>
@@ -17,7 +10,7 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+with+Jenkins+%26+GitHub+Actions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,11 +18,12 @@
 
 ## 🙋‍♀️ About Me
 - 💻 Junior Software Engineer (Backend) @ **Stackware Ltd.**  
-- 🎓 CS Undergrad @ **COMSATS University Islamabad (CGPA 3.78)**  
+- 🎓 CS Undergrad 2022 - 2026 @ **COMSATS University Islamabad (CGPA 3.78)**  
 - 🐍 Specialized in **Python backend development (FastAPI, Flask)**  
 - 🗄️ Strong in **databases**: PostgreSQL, MongoDB, Supabase, Firebase  
 - ☁️ Exploring **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS  
-- ⚡ Also familiar with **React, Tailwind & Figma** as secondary skills  
+- ⚡ At **Stackware**, I’ve worked extensively on **Qt/QML with C++ & Python**, including **Qt3D, Maps, Bluetooth, ESP32**, and more — mainly handling backend logic and system integration.  
+- 🌐 Also built multiple **web & mobile applications** using **Next.js, React.js, Node.js, Express.js, TailwindCSS, Flutter & Figma**  
 
 ---
 
@@ -43,10 +37,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **[JobPilot](https://github.com/SadiaImran)** → FastAPI + Supabase job tracker (LLM resume matching)  
+- 🔹 **[JobPilot](https://github.com/SadiaImran/JobPilot)** → FastAPI + Supabase job tracker (LLM resume matching)
+- 🔹 **[Travel App](https://github.com/SadiaImran/travel_app)** → Flutter + Firebase 
+- 🔹 **[Weather App](https://github.com/SadiaImran/realtime-weather)** → Flutter + Firebase 
 - 🔹 **[Predictive House Prices](https://github.com/SadiaImran/Predict-house-pricing)** → Python + Scikit-learn + Flask API  
-- 🔹 **[Celebrity Face Classifier](https://github.com/SadiaImran)** → Python + Flask + OpenCV  
-- 🔹 **[Drivio](https://github.com/SadiaImran)** → REST APIs with Node.js + Express  
+- 🔹 **[Celebrity Face Classifier]([https://github.com/SadiaImran](https://github.com/SadiaImran/Celebrity-face-detection))** → Python + Flask + OpenCV  
 - 🔹 **[Hospital Management System](https://github.com/SadiaImran/Hospital-Management-System)** → Java OOP + backend logic  
 
 ---
