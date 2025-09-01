@@ -41,7 +41,7 @@
 - 🔹 **[Travel App](https://github.com/SadiaImran/travel_app)** → Flutter + Firebase 
 - 🔹 **[Weather App](https://github.com/SadiaImran/realtime-weather)** → Flutter + Firebase 
 - 🔹 **[Predictive House Prices](https://github.com/SadiaImran/Predict-house-pricing)** → Python + Scikit-learn + Flask API  
-- 🔹 **[Celebrity Face Classifier]([https://github.com/SadiaImran](https://github.com/SadiaImran/Celebrity-face-detection))** → Python + Flask + OpenCV  
+- 🔹 **[Celebrity Face Classifier](https://github.com/SadiaImran/Celebrity-face-detection)** → Python + Flask + OpenCV  
 - 🔹 **[Hospital Management System](https://github.com/SadiaImran/Hospital-Management-System)** → Java OOP + backend logic  
 
 ---
