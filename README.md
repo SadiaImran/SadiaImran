@@ -19,7 +19,7 @@
 ## 🙋‍♀️ About Me
 - 💻 Junior Software Engineer (Backend) @ **Stackware Ltd.**  
 - 🎓 CS Undergrad 2022 - 2026 @ **COMSATS University Islamabad (CGPA 3.78)**  
-- 🐍 Specialized in **Python backend development (FastAPI, Flask)**  
+- 🐍 Specialized in **backend development (Node , FastAPI, Django, Flask)**  
 - 🗄️ Strong in **databases**: PostgreSQL, MongoDB, Supabase, Firebase  
 - ☁️ Exploring **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS  
 - ⚡ At **Stackware**, I’ve worked extensively on **Qt/QML with C++ & Python**, including **Qt3D, Maps, Bluetooth, ESP32**, and more — mainly handling backend logic and system integration.  
