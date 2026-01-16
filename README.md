@@ -1,4 +1,4 @@
-<img width="1208" height="846" alt="image" src="https://github.com/user-attachments/assets/7fb4b49d-c006-4ad3-ab28-836e0afa0d25" />
+
 <h1 align="center">🚀 Software Engineer | Backend Developer | Python | DevOps </h1>
 
 <p align="center">
