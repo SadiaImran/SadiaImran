@@ -20,14 +20,11 @@
 </div>
 
 <!-- Animated Separator -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8A8AFF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+Development+%26+AI+Integration;FastAPI+%7C+React+%7C+Flutter+%7C+DevOps;Building+Scalable+Systems+That+Matter;COMSATS+CS+'26+%7C+CGPA+3.78" alt="Typing SVG" />
-</a>
 <br>
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
+<img align="right" alt="Coding" width="380" src="https://static.vecteezy.com/system/resources/previews/005/446/038/non_2x/a-hand-drawn-illustration-of-creative-coding-vector.jpg">
 
 ```yaml
 👩‍💻 Developer: Sadia Imran
