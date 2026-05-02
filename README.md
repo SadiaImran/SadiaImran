@@ -25,26 +25,13 @@
 ## 🎯 About Me
 
 <img align="right" alt="Coding" width="380" src="https://static.vecteezy.com/system/resources/previews/005/446/038/non_2x/a-hand-drawn-illustration-of-creative-coding-vector.jpg">
-
-```yaml
-👩‍💻 Developer: Sadia Imran
-🌍 Location: Islamabad, Pakistan
-🎓 Education: COMSATS University | CS '26 | CGPA 3.77
-💼 Role: Junior Software Engineer @ Stackware Ltd.
-🔭 Focus: Backend APIs, AI Integration, DevOps
-🌱 Learning: Kubernetes, MLOps, System Design
-💬 Ask me: FastAPI, React, Flutter, PostgreSQL
-⚡ Fun: "Building intelligent systems that scale! 🚀"
-```
-
-### 🎯 What I Do
-
-- 🔧 **Backend Development**: Designing scalable APIs and microservices with FastAPI, Flask, Node.js
-- 🤖 **AI Integration**: Building RAG-based LLM applications, voice cloning, ML pipelines
-- 📱 **Cross-Platform Dev**: Creating mobile & desktop apps with Flutter, Qt/QML, React
-- ☁️ **DevOps & Cloud**: Containerization with Docker, CI/CD pipelines, AWS deployment
-- 🗄️ **Database Design**: PostgreSQL, MongoDB, Supabase, Redis optimization
-
+- 💻 Junior Software Engineer (Backend) @ **Stackware Ltd.**  
+- 🎓 CS Undergrad 2022 - 2026 @ **COMSATS University Islamabad (CGPA 3.78)**  
+- 🐍 Specialized in **backend development (Node , FastAPI, Django, Flask)**  
+- 🗄️ Strong in **databases**: PostgreSQL, MongoDB, Supabase, Firebase  
+- ☁️ Exploring **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS  
+- ⚡ At **Stackware**, I’ve worked extensively on **Qt/QML with C++ & Python**, including **Qt3D, Maps, Bluetooth, ESP32**, and more — mainly handling backend logic and system integration.  
+- 🌐 Also built multiple **web & mobile applications** using **Next.js, React.js, Node.js, Express.js, TailwindCSS, Flutter & Figma**  
 <br clear="right"/>
 
 <!-- Animated Separator -->
