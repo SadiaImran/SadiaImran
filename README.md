@@ -20,6 +20,7 @@
 </div>
 
 <!-- Animated Separator -->
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
 <br>
 
 ## 🎯 About Me
