@@ -21,7 +21,6 @@
 
 <!-- Animated Separator -->
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
-<br>
 
 ## 🎯 About Me
 
@@ -49,7 +48,7 @@
 <br clear="right"/>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
 
 ## 🛠️ Technology Stack
 
@@ -139,7 +138,7 @@
 </div>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
 
 ## 💼 Professional Experience
 
@@ -159,9 +158,9 @@
 - 🛠️ Version control and collaborative development with Git
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
+#
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -177,7 +176,7 @@
 </div>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
 
 ## 📊 GitHub Statistics
 
@@ -196,7 +195,7 @@
 </div>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #8A8AFF, transparent); margin: 40px 0;">
 
 ## 📈 Detailed Analytics
 
