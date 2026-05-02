@@ -221,33 +221,6 @@
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Education
-
-**🎓 COMSATS University Islamabad**  
-**Bachelor of Science in Computer Science** | Jan 2022 - Jan 2026  
-**CGPA: 3.78/4.0**
-
-**📚 Relevant Coursework:**  
-Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Web Development • DevOps • Machine Learning • Computer Networks • Operating Systems
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Achievements & Highlights
-
-- 🎯 **85% reduction** in podcast production time through AI automation (Podverse)
-- 📈 **75% increase** in user engagement with RAG-based LLM integration
-- 🚀 Built systems handling **10,000+ concurrent users** with 99.9% uptime
-- 💼 **500+ active users** on JobPilot platform
-- ⚡ **40% performance improvement** in real-time data processing systems
-- 📊 **3.78 CGPA** maintaining academic excellence while building production systems
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -271,34 +244,4 @@ Data Structures & Algorithms • Object-Oriented Programming • Database Manage
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-**⭐️ From [SadiaImran](https://github.com/SadiaImran) | Built with ❤️ and lots of ☕**
-
-<img src="https://komarev.com/ghpvc/?username=SadiaImran&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
-
-**⭐ Star my repos if you find them useful!**
-
-</div>
-
-<!-- 
-INSTRUCTIONS TO ADD YOUR CUSTOM BANNER:
-1. Create an 'assets' folder in your repository
-2. Add your banner image (recommended size: 1280x320px)
-3. Replace line 5 with your banner path
-4. Commit and push!
-
-Example banner tools:
-- Canva: https://www.canva.com/
-- Figma: https://www.figma.com/
-- Photopea: https://www.photopea.com/
--->
