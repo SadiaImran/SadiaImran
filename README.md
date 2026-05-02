@@ -20,13 +20,14 @@
 </div>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8A8AFF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+Development+%26+AI+Integration;FastAPI+%7C+React+%7C+Flutter+%7C+DevOps;Building+Scalable+Systems+That+Matter;COMSATS+CS+'26+%7C+CGPA+3.78" alt="Typing SVG" />
+</a>
 <br>
 
 ## 🎯 About Me
 
-<img align="right" alt="Engineering" width="380" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
 ```yaml
 👩‍💻 Developer: Sadia Imran
